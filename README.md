@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HazimDeveloper
+- 👋 Hi, I’m HazimKhairi
 - 👀 I’m interested in full stack developer
-- 🌱 I’m currently learning java and php
-- 💞️ I’m looking to collaborate on big company such as Petronas
+- 🌱 I’m currently learning MERN STACK
+- 💞️ I’m looking to collaborate on any developer to making big project
 - 📫 How to reach me check my portfolio
 
 <!---
